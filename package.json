@@ -1,9 +1,8 @@
 {
-  "name": "my-gatsby-site",
+  "name": "my-first-gatsby-site",
   "version": "1.0.0",
   "private": true,
-  "description": "my-gatsby-site",
-  "author": "LsCode123",
+  "description": "my-first-gatsby-site",
   "keywords": [
     "gatsby"
   ],
@@ -18,5 +17,8 @@
     "gatsby": "^5.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "main": "gatsby-config.js",
+  "author": "",
+  "license": "ISC"
 }
